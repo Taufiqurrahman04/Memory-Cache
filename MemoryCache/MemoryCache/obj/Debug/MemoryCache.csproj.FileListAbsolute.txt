@@ -1,0 +1,7 @@
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\bin\Debug\MemoryCache.exe.config
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\bin\Debug\MemoryCache.exe
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\bin\Debug\MemoryCache.pdb
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\obj\Debug\MemoryCache.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\obj\Debug\MemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\obj\Debug\MemoryCache.exe
+C:\Users\Taufiqurrahman\source\repos\MemoryCache\MemoryCache\obj\Debug\MemoryCache.pdb
